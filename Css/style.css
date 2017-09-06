@@ -1,0 +1,20 @@
+h1{
+    color: whitesmoke;
+    margin-top: 40%;
+    font-size: 100px;
+    font-family: Papyrus;
+}
+
+body{
+    text-align: center;
+}
+
+html{
+    background-image: url(../Res/background.png);
+}
+
+.h1_class{
+    margin: auto;
+    background-color: brown;
+    width: 600px;
+}
