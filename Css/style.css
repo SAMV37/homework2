@@ -5,16 +5,13 @@ h1{
     font-family: Papyrus;
 }
 
-body{
-    text-align: center;
-}
-
 html{
     background-image: url(../Res/background.png);
 }
 
 .h1_class{
     margin: auto;
-    background-color: brown;
+    background: rgba(192,192,192,0.5);
     width: 600px;
+    text-align: center;
 }
