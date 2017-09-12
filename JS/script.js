@@ -14,10 +14,6 @@ $(document).ready(function() {
         }else {
             console.log("Number 1 / Number 2 = " + (a / b));
         }
-        myFunc();
+        alert("Look the console (Ctrl+Shift+I)");
     }
 });
-
-function myFunc(){
-    alert("Look the console (Ctrl+Shift+I)");
-}
